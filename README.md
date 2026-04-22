@@ -3,7 +3,7 @@ Modelagem do banco de dados feita para o projeto integrador no Senac Penha.
 
 O objetivo do projeto é ser uma vitrine para artistas e eventos músicais.
 
-Esse modelo contém:
+Esse repositório contém:
 
 🔹 Modelo conceitual
 
